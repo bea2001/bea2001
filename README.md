@@ -1,8 +1,15 @@
-<h1>🤓Bea Rios</h1>
+<h1>🤓 Welcome to my Github profile</h1>
 
-<h4>Hello, i'm Beatriz, it's a pleasure to meet you.😜</h4>
+<h3>Contatos:</h3>
 
-![giphy (2)](https://github.com/bea2001/bea2001/assets/108153965/8cbc59e6-0c4f-4f3e-8c28-e7204dd41cf3)
+<div>
+<a href="https://instagram.com/b.ea_rios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/beatriz-rios-almeida-746a65228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<h4>i'm Beatriz, it's a pleasure to meet you.😜</h4>
+
+![giphy](https://github.com/bea2001/bea2001/assets/108153965/fd25b685-1427-44f2-ad1d-911309d23b4a)
 
 <h2>🐍Snake Game</h2>
 
